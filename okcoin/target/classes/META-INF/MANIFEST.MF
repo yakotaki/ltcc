@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1496647195199
+Bundle-ManifestVersion: 2
+Bundle-Name: okcoin
+Bundle-SymbolicName: okcoin
+Bundle-Version: 2.8.1
+Created-By: 1.8.0_131 (Oracle Corporation)
+Tool: Bnd-3.1.0.201512181341

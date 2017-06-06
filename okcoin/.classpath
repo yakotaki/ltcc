@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/httpclient-cache-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/httpclient-win-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/httpmime-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/jackson-core-2.9.0.pr1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/jackson-databind-2.9.0.pr1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/jackson-annotations-2.9.0.pr1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Lukas/Desktop/java/gson-2.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
